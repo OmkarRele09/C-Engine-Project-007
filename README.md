@@ -2,7 +2,7 @@
 
 Part of my **C-Engine Series**, where I develop real-world logic-based mini tools using C programming.
 
-here is the project link :- https://github.com/OmkarRele09/C-Engine-007/blob/main/votereligibilitychecker.c
+here is the project link :- https://github.com/OmkarRele09/C-Engine-Project-007/blob/main/votereligibilitychecker.c
 
 ## 🔥 About
 This program checks if a person is eligible to vote based on age.  
